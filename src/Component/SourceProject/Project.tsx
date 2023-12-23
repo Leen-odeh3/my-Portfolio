@@ -1,9 +1,10 @@
+import Hero from "./Hero"
 
 
 const Projects = () => {
   return (
     <div>
-      padajsfs
+    <Hero/>
     </div>
   )
 }

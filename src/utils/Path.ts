@@ -5,3 +5,4 @@ export {default as Hero} from '../Component/Hero/Hero';
 export {default as About} from '../Component/About/About'
 export {default as SkillsBar} from '../Component/SkillsBar/SkillsBar'
 export {default as TwitterFeed}  from "../Component/TwitterFeed/TwitterFeed";
+export {default as Projects} from "../Pages/Projects";
